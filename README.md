@@ -1,4 +1,4 @@
-<p align="center"><img src="") </p>
+<p align="center"><img src="https://github.com/CMZhn/Conversor_ONE_G5/blob/main/Readme_Recursos/RearmeBanner.svg") </p>
 
 <h1 style="color:rgb(12, 160, 94)">Challenge Back End Java - Conversor</h1>
 <p align="left">
