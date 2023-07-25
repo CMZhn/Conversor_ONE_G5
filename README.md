@@ -1,4 +1,4 @@
-<p align="center">+LOGO Banner </p>
+<p align="center"><img src="") </p>
 
 <h1 style="color:rgb(12, 160, 94)">Challenge Back End Java - Conversor</h1>
 <p align="left">
@@ -17,25 +17,23 @@ Este reto cosiste en aplicar los conocimientos adquiridos en el programa sobre <
 El reto cosiste en crear un conversor de moneda que cumpla con los siguientes requisitos:
 <li>
 El convertidor de moneda debe:<br>
-    <code>- Convertir de la moneda de tu país a Dólar<br>
-    - Convertir de la moneda de tu país  a Euros<br>
-    - Convertir de la moneda de tu país  a Libras Esterlinas<br>
-    - Convertir de la moneda de tu país  a Yen Japonés<br>
-    - Convertir de la moneda de tu país  a Won sul-coreano</Code>
+  <code>- Convertir de la moneda de tu país a Dólar</Code><br>
+  <code>- Convertir de la moneda de tu país  a Euros</Code><br>
+  <code>- Convertir de la moneda de tu país  a Libras Esterlinas</Code><br>
+  <code>- Convertir de la moneda de tu país  a Yen Japonés</Code><br>
+  <code>- Convertir de la moneda de tu país  a Won sul-coreano</Code>  
 </li>
  <li>También debe ser posible convertir inversamente</li>
- <br><br>
+ <br>
  <p><strong>Extra</strong></p>
  Como extra el desafío tenía agregar otro tipo de conversión como por ejemplo temperatura.
 
- +LOGO AluraChallenge
+ <img src="https://github.com/CMZhn/Conversor_ONE_G5/blob/main/Readme_Recursos/AluraChanllenges.svg" height="100">
 
 <h2>Características adicionales</h2>
 <p align="left">
    <img src="https://img.shields.io/badge/CARACTER%C3%8DSTICAS%20%2B-10-brown">
 </p>
-
-
 Este proyecto cuenta con las siguientes características adicionales a las requeridas por el reto:
 <ol>
     <li>Se accede a los tipos de conversión desde una pantalla de menú.</li>
@@ -47,7 +45,7 @@ Este proyecto cuenta con las siguientes características adicionales a las reque
     <li>Se adicionó un botón que copia los resultados de la conversión al portapapeles(<code>CTRL+C</code>).</li>
     <li>Animación de los botones del menú mediante el uso de <code>Listeners</code>.</li>
     <li>Personalizacion del fondo del <code>JPanel</code> de contenido de las ventanas.</li>
-    <li></li>
+    <li>Las dimensiones y las posiciones de las nuevas ventanas están relacionadas con ventanas anteriores.</li>
 </ol>
 <h2>Tecnologías utilizadas</h2>
 <p align="left">
@@ -57,8 +55,7 @@ Este proyecto cuenta con las siguientes características adicionales a las reque
 </p>
 Para el desarrollo de este proyecto se utilizo como IDE Eclipse Versión 2023-06 con el JDK 17 (Java Development Kit 17), y el proyecto fue compilado como un JRE 1.8 (Java Runtime Environment 1.8).
 <br>
-+LOGO JAVA 
-+LOGO Eclipce
+<img src="https://github.com/CMZhn/Conversor_ONE_G5/blob/main/Readme_Recursos/java.svg" height="90"> <img src="https://github.com/CMZhn/Conversor_ONE_G5/blob/main/Readme_Recursos/EclipseLogo.svg" height="50">
 <h2>Instalación</h2>
 <p align="left">
    <img src="https://img.shields.io/badge/PASOS%20DE%20INSTALACI%C3%93N%20-4-orange">
@@ -72,9 +69,7 @@ Para utilizar la aplicación siga los siguientes pasos de instalación:
     <li>Finalmente ejecutar el archivo <code><strong><em>CMZhn_Conversor.jar</em></strong></code>.</li>
 </ol>
 <p><strong>Pasos opcionales </strong></p>
-<p align="left"><img src="https://img.shields.io/badge/PASOS%20DE%20INSTALACI%C3%93N-7-gray"></p>
-
-
+<p align="left"><img src="https://img.shields.io/badge/PASOS%20OPCIONALES-7-gray"></p>
 Si desea crear un acceso directo con el icono de la aplicación, siga los siguientes pasos (<em>aplicable para windows 10</em>):
 <ol>
     <li>Haga clic con el botón derecho en <code><strong><em>CMZhn_Conversor.jar</em></strong></code> y seleccione la opcion Crear acceso directo.</li>
@@ -85,12 +80,10 @@ Si desea crear un acceso directo con el icono de la aplicación, siga los siguie
     <li>Haga clic en abrir y luego aceptar</li>
     <li>Aplicar los cambios y cerrar la ventana de Propiedades del acceso directo.</li>
 </ol>
-+LOGO gif de Instalacion
+<p align="Center"><img src="https://github.com/CMZhn/Conversor_ONE_G5/blob/main/Readme_Recursos/InstruccionesOpcionales.gif" height="400"></p>
 <h2>Funcionalidad</h2>
-+LOGO GIF
+<p align="Center"><img src="https://github.com/CMZhn/Conversor_ONE_G5/blob/main/Readme_Recursos/ConversorGifgrande.gif"></p>
 
 <h2>Autor</h2>
-<p align="center">Carlos Melgar</p>
-<br>
-
-+LOGO Git
+<p align="center"><strong><a href="https://github.com/CMZhn"><em>Carlos Melgar</em></a></strong></p>
+<p align="center"><strong>2023</strong></p>
